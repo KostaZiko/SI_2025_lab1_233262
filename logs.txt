@@ -1,0 +1,15 @@
+*   51f51d5 (HEAD -> master, origin/master, origin/HEAD) Merge branch 'master' of https://github.com/KostaZiko/SI_2025_lab1_233262
+|\
+| *   83848e8 Merge pull request #11 from KostaZiko/5-filter-tasks-by-category
+| |\
+| | * 760b00d (origin/5-filter-tasks-by-category, 5-filter-tasks-by-category) Implemented filterByCategory()
+| * |   80643e6 Merge pull request #10 from KostaZiko/2-find-all-completed-tasks
+| |\ \
+| | |/
+| |/|
+| | * 3a21333 (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Implemented getCompletedTasks()
+| |/
+* / 2401484 (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implemented markTaskCompleted()
+|/
+* 259feef Add starter code
+* a74f715 Initial commit

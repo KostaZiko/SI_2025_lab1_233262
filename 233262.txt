@@ -1,0 +1,10 @@
+14.$ git checkout  2-find-all-completed-tasks	
+16.$ git commit -m "Implemented getCompletedTasks()"
+17.$ git push origin 2-find-all-completed-tasks
+
+22.Да, се случи конфликт, затоа што има промени во оддалечениот репозиториум, кои не ги имам локално.
+Го решив со преземање на промените од оддалечениот репозиториум со $ git pull origin master.
+
+23.$ git push origin master
+
+26.$ git push origin master
